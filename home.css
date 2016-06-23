@@ -1,0 +1,111 @@
+#square{
+position:absolute;
+top:50px;
+right:100px;
+   height:100px;
+   width:100px;
+   background-color:yellow;
+}
+   .paint-block{
+  border-radius:50%;
+              }
+#rectangle{
+     height:500px;
+     width:100%;
+     background-color:blue;
+}
+#box{
+ position:fixed;
+ border:solid black;
+ top:95;
+ right:1000;
+ height:410px;
+ width:100%;
+ background-color:red;
+}
+.window{
+ margin:10px 30px 10px 30px;
+ border:3px solid blue;
+  height:50px;
+  width:100%;
+ background-color:black;
+}
+#window1{
+position:fixed;
+top:110;
+right:1040;
+ border:3px solid blue;
+  height:50px;
+  width:100%;
+ background-color:black;
+}
+#window4{
+position:fixed;
+top:175;
+right:1040;
+ border:3px solid blue;
+  height:50px;
+  width:100%;
+ background-color:black;
+}
+#window3{
+position:fixed;
+top:245;
+right:1040;
+border:3px solid blue;
+  height:50px;
+  width:100%;
+ background-color:black;
+}
+#window2{
+position:fixed;
+top:355;
+border:solid blue;
+right:1050;
+  height:150px;
+  width:100%;
+ background-color:black;
+}
+#container{
+    height:150px;
+    width:100%;
+    background-color:green;
+}
+#building{
+  position:fixed;
+  top:205;
+border:solid black;
+   right:700;
+   height:300px;
+  width:100%;
+ background-color:yellow;
+}
+#gate{
+   position:fixed;
+  top:355;
+border:solid black;
+  right:725;
+  height:150px;
+   width:100%;
+  background-color:red;
+}
+#gate1{
+ position:fixed;
+border:solid black;
+  top:250;
+  right:795;
+  height:50px;
+  width:100%;
+ background-color:red;
+}
+#gate2{
+ position:fixed;
+  top:250;
+  right:725;
+ height:50px;
+border:solid black;
+  width:100%;
+ background-color:red;
+}
+
+
