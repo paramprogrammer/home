@@ -14,9 +14,9 @@ right:100px;
      width:100%;
      background-color:blue;
 } 
-@media screen and (max-width:400px) {
-   square{
-margin-left:100px;
+@media screen and (max-width:700px) {
+   box{
+height:50px;
 }}
 #box{
  position:fixed;
