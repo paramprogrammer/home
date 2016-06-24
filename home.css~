@@ -91,7 +91,7 @@ border:solid black;
   left:475;
   height:150px;
    width:100px;
-  background-color:red;
+  backgrousnd-color:red;
 }
 #gate1{
  position:fixed;
