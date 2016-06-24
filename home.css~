@@ -14,15 +14,15 @@ right:100px;
      width:100%;
      background-color:blue;
 } 
-@media screen and (max-width:700px) {
-   box{
-height:50px;
+@media screen and (max-width:400px) {
+   square{
+margin-left:100px;
 }}
 #box{
- position:fixed;
+ position:absolute;
  border:solid black;
  top:95;
- right:1000;
+ left:100px;
  height:410px;
  width:200px;
  background-color:red;
@@ -37,7 +37,7 @@ height:50px;
 #window1{
 position:fixed;
 top:110;
-right:1040;
+left:220;
  border:3px solid blue;
   height:50px;
   width:40px;
@@ -46,7 +46,7 @@ right:1040;
 #window4{
 position:fixed;
 top:175;
-right:1040;
+left:220;
  border:3px solid blue;
   height:50px;
   width:40px;
@@ -55,7 +55,7 @@ right:1040;
 #window3{
 position:fixed;
 top:245;
-right:1040;
+left:220;
 border:3px solid blue;
   height:50px;
   width:40px;
@@ -65,7 +65,7 @@ border:3px solid blue;
 position:fixed;
 top:355;
 border:solid blue;
-right:1050;
+left:150;
   height:150px;
   width:100px;
  background-color:black;
@@ -79,7 +79,7 @@ right:1050;
   position:fixed;
   top:205;
 border:solid black;
-   right:700;
+   left:450;
    height:300px;
   width:150px;
  background-color:yellow;
@@ -88,7 +88,7 @@ border:solid black;
    position:fixed;
   top:355;
 border:solid black;
-  right:725;
+  left:475;
   height:150px;
    width:100px;
   background-color:red;
@@ -97,7 +97,7 @@ border:solid black;
  position:fixed;
 border:solid black;
   top:250;
-  right:795;
+  left:470;
   height:50px;
   width:40px;
  background-color:red;
@@ -105,7 +105,7 @@ border:solid black;
 #gate2{
  position:fixed;
   top:250;
-  right:725;
+  left:540;
  height:50px;
 border:solid black;
   width:40px;
